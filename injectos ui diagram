@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram name="Page-1" id="i2pUDpAXuvOZyKYIt-Co">
+    <mxGraphModel dx="1426" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="780" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="780" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-6" value="x" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="780" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-8" value="-" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-10" value="This is the burp built in menu." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="780" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-12" value="This is burp built in footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="650" width="780" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-13" value="Request editor for user to paste request for automation of injection attacks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="350" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhvlBo5BCG_0iALpsbz-15" value="Various options, buttons for injectos configurations to automate injection attacks such as selecting sqlmap or other tools to run for this request." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="310" width="120" height="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
