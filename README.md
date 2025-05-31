@@ -1,6 +1,6 @@
 # Tasks
 
-- [ ] Commix effectiveness against burp academy
+- [x] Commix effectiveness against burp academy
 - [ ] SSTImap effectiveness against burp academy
 - [ ] SSRFmap effectiveness against burp academy
 - [ ] LFImap effectiveness against burp academy
@@ -12,5 +12,8 @@
   - `python3 commix/commix.py -r test.req --batch --proxy http://127.0.0.1:8080 --technique T --level 3`
 - [x] Commix effectiveness against burp academy lab 3
   - `python3 commix/commix.py -r test.req --batch --proxy http://127.0.0.1:8080 --technique T --level 3`
-- [ ] Commix effectiveness against burp academy lab 4
-- [ ] Commix effectiveness against burp academy lab 5
+- [x] Commix effectiveness against burp academy lab 4
+- [x] Commix effectiveness against burp academy lab 5
+- [ ] https://github.com/commixproject/commix/wiki/Techniques#3-shellshock-bash-injection-module ??? > ShellShock??? How long is this never tested??? Should we waste time doing this??? [OPTIONAL]
+
+# SSTImap
