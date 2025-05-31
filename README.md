@@ -17,3 +17,11 @@
 - [ ] https://github.com/commixproject/commix/wiki/Techniques#3-shellshock-bash-injection-module ??? > ShellShock??? How long is this never tested??? Should we waste time doing this??? [OPTIONAL]
 
 # SSTImap
+- [ ] Basic server-side template injection
+- [ ] Basic server-side template injection (code context)
+- [ ] Server-side template injection using documentation
+- [ ] Server-side template injection in an unknown language with a documented exploit
+- [ ] Server-side template injection with information disclosure via user-supplied objects
+- [ ] Server-side template injection in a sandboxed environment
+- [ ] Server-side template injection with a custom exploit
+
