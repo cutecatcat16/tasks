@@ -6,4 +6,4 @@
 - [ ] LFImap effectiveness against burp academy
 - [ ] SQLmap effectiveness against burp academy
 
-Not sure if anything else is missing. 
+- [x] Commix effectiveness against burp academy lab 1
